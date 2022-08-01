@@ -4,5 +4,7 @@ public class add {
         int b=30;
         System.out.println(a+b);
         System.out.println("Hello");
+        System.out.println("Sushma");
+        System.out.println("Ram");
     }
 }
