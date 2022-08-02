@@ -10,6 +10,7 @@ public class add {
         System.out.println(a*b);
         if(a==b)
             System.out.println("true");
+            System.out.println("equal");
         else
             System.out.println("false");
     }
