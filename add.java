@@ -16,5 +16,6 @@ public class add {
             System.out.println("false");
             System.out.println("Not equal");
         }
+          System.out.println("Good Morning!");
     }
 }
