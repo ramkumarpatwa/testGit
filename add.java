@@ -8,10 +8,13 @@ public class add {
         System.out.println("Sushma");
         System.out.println("Ram");
         System.out.println(a*b);
-        if(a==b)
+        if(a==b){
             System.out.println("true");
             System.out.println("equal");
-        else
+        }
+        else{
             System.out.println("false");
+            System.out.println("Not equal");
+        }
     }
 }
