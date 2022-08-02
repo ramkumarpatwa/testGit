@@ -8,8 +8,5 @@ public class add {
         System.out.println("Sushma");
         System.out.println("Ram");
         System.out.println(a*b);
-        int c =50;
-        int d = 30;
-        System.out.println(c-d);
     }
 }
