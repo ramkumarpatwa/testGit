@@ -8,5 +8,9 @@ public class add {
         System.out.println("Sushma");
         System.out.println("Ram");
         System.out.println(a*b);
+        if(a==b)
+            System.out.println("true");
+        else
+            System.out.println("false");
     }
 }
